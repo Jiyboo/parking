@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# parking
-=======
-=======
-=======
-<<<<<<< HEAD
-# parking
-=======
->>>>>>> 695d5d9 (Parking Project)
->>>>>>> de7afec (Parking Project)
 # 🚗 Parking Management System – CodeIgniter 3
 
 A **web-based parking management system** built with **CodeIgniter 3, PHP 8, and MySQL**, designed to manage parking areas, vehicle data, and parking transactions efficiently.
@@ -84,9 +73,3 @@ File: application/config/config.php
 ```bash
 # Run project
 http://localhost/parking-management-system
-<<<<<<< HEAD
-```
->>>>>>> 04f5c3d (Parking Project)
-=======
-```
->>>>>>> de7afec (Parking Project)
